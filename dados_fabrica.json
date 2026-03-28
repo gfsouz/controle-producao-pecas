@@ -1,0 +1,142 @@
+{
+    "p": [
+        {
+            "id": "P001",
+            "peso": 100.0,
+            "cor": "azul",
+            "comp": 15.0,
+            "aprovada": true,
+            "motivo": "",
+            "data": "27/03/2026 19:53:18"
+        },
+        {
+            "id": "P002",
+            "peso": 98.0,
+            "cor": "verde",
+            "comp": 12.0,
+            "aprovada": true,
+            "motivo": "",
+            "data": "27/03/2026 19:53:53"
+        },
+        {
+            "id": "P003",
+            "peso": 102.0,
+            "cor": "azul",
+            "comp": 18.0,
+            "aprovada": true,
+            "motivo": "",
+            "data": "27/03/2026 19:54:25"
+        },
+        {
+            "id": "P004",
+            "peso": 96.0,
+            "cor": "verde",
+            "comp": 14.0,
+            "aprovada": true,
+            "motivo": "",
+            "data": "27/03/2026 20:20:10"
+        },
+        {
+            "id": "P005",
+            "peso": 104.0,
+            "cor": "verde",
+            "comp": 19.0,
+            "aprovada": true,
+            "motivo": "",
+            "data": "27/03/2026 20:20:38"
+        },
+        {
+            "id": "P006",
+            "peso": 99.0,
+            "cor": "azul",
+            "comp": 11.0,
+            "aprovada": true,
+            "motivo": "",
+            "data": "27/03/2026 20:21:07"
+        },
+        {
+            "id": "P007",
+            "peso": 101.0,
+            "cor": "azul",
+            "comp": 17.0,
+            "aprovada": true,
+            "motivo": "",
+            "data": "27/03/2026 20:21:29"
+        },
+        {
+            "id": "P011",
+            "peso": 100.0,
+            "cor": "rosa",
+            "comp": 15.0,
+            "aprovada": false,
+            "motivo": "cor",
+            "data": "27/03/2026 20:22:48"
+        },
+        {
+            "id": "P012",
+            "peso": 110.0,
+            "cor": "verde",
+            "comp": 15.0,
+            "aprovada": false,
+            "motivo": "peso",
+            "data": "27/03/2026 20:23:12"
+        },
+        {
+            "id": "P013",
+            "peso": 100.0,
+            "cor": "verde",
+            "comp": 25.0,
+            "aprovada": false,
+            "motivo": "comprimento",
+            "data": "27/03/2026 20:23:41"
+        },
+        {
+            "id": "P008",
+            "peso": 97.0,
+            "cor": "azul",
+            "comp": 13.0,
+            "aprovada": true,
+            "motivo": "",
+            "data": "27/03/2026 20:24:42"
+        },
+        {
+            "id": "P09",
+            "peso": 103.0,
+            "cor": "verde",
+            "comp": 17.0,
+            "aprovada": true,
+            "motivo": "",
+            "data": "27/03/2026 20:26:03"
+        },
+        {
+            "id": "p10",
+            "peso": 104.0,
+            "cor": "verde",
+            "comp": 15.0,
+            "aprovada": true,
+            "motivo": "",
+            "data": "27/03/2026 20:27:45"
+        }
+    ],
+    "c": [
+        [
+            "P001",
+            "P002",
+            "P003",
+            "P004",
+            "P005",
+            "P006",
+            "P007",
+            "P008",
+            "P09",
+            "p10"
+        ]
+    ],
+    "r": {
+        "aprovadas": 10,
+        "reprovadas_peso": 1,
+        "reprovadas_cor": 1,
+        "reprovadas_comp": 1,
+        "total_caixas": 1
+    }
+}
