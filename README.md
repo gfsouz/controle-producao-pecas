@@ -1,6 +1,6 @@
 # 🏭 Sistema de Gestão Industrial de Peças
 
-Sistema de controle de qualidade para peças industriais desenvolvido em Python puro, sem dependências externas. O sistema valida componentes por peso, cor e comprimento, distribui as peças aprovadas em caixas com capacidade definida e emite relatórios com os resultados por categoria. Todos os dados ficam salvos em arquivo JSON e são restaurados automaticamente na próxima execução.
+Sistema de controle de qualidade para peças industriais desenvolvido em Python, sem dependências externas. O sistema valida componentes por peso, cor e comprimento, distribui as peças aprovadas em caixas com capacidade definida e emite relatórios com os resultados por categoria. Todos os dados ficam salvos em arquivo JSON e são restaurados automaticamente na próxima execução.
 
 ---
 
